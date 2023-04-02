@@ -1,0 +1,11 @@
+html {
+
+}
+
+.home{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  justify-self: center;
+  row-gap: 20px;
+  column-gap:10px;
+}
